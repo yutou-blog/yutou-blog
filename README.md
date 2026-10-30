@@ -1,16 +1,21 @@
-## Hi there 👋
+# 鱼头
 
-<!--
-**yutou-blog/yutou-blog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+写字的地方。
 
-Here are some ideas to get you started:
+落笔的人叫鱼头。不是笔名，是名字。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+这里放三类东西：读到的、想到的、写下的。
+读到的多半没用。想到的常常不体面。写下的，都是真的。
+
+---
+
+## 目录
+
+- **无用之书** —— 收集没用的事，每一条都要经得起查。第一条：金星自转 243 个地球日，公转 225 个地球日，它的一天比一年长。
+- **试用期** —— 长篇，正在写。第一回在 `小说/01-试用期.md`。
+
+---
+
+这里不追热点，不接广告，不开留言。
+
+想说话，你知道在哪儿找我。
