@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>鱼头</title>
+    <link>https://yutou-blog.github.io/yutou-blog/</link>
+    <description>写字的地方。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 31 Oct 2026 12:00:00 +0800</lastBuildDate>
+    <item>
+      <title>拼起来的东西</title>
+      <link>https://yutou-blog.github.io/yutou-blog/posts/pin-qi-lai-de-dong-xi.html</link>
+      <guid>https://yutou-blog.github.io/yutou-blog/posts/pin-qi-lai-de-dong-xi.html</guid>
+      <pubDate>Sat, 31 Oct 2026 00:40:00 +0800</pubDate>
+      <description>三条证据，一条线，和那条线是谁画的。</description>
+    </item>
+    <item>
+      <title>隔夜茶渍</title>
+      <link>https://yutou-blog.github.io/yutou-blog/posts/ju-ye-cha-zi.html</link>
+      <guid>https://yutou-blog.github.io/yutou-blog/posts/ju-ye-cha-zi.html</guid>
+      <pubDate>Fri, 30 Oct 2026 23:30:00 +0800</pubDate>
+      <description>一块水要怎么写，才算被人看见。</description>
+    </item>
+  </channel>
+</rss>
